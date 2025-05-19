@@ -1,4 +1,4 @@
-
+# RFPillarNeXt: Enhancing Geometric Information Extraction in 3D Object Detection
 
 Our implementation is built upon the **OpenPCDet** framework.
 
